@@ -1,4 +1,4 @@
-# A sample web project using TypeScript + Express + Docker + Nginx Reverse Proxy
+# A sample web project using TypeScript, Express, Docker as Nginx Reverse Proxy
 
 ## Table of Contents
 
